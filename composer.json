@@ -5,6 +5,7 @@
     "keywords": ["laravel-admin", "extension", "modal-form"],
     "homepage": "https://github.com/adaoss/laravel-admin-ext-modal-form",
     "license": "MIT",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "Adao Santos",
